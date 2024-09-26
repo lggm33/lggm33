@@ -1,4 +1,4 @@
-# Juan Pérez - Software Developer
+# Gabriel Gomez - Software Developer
 
 ![Profile Photo](https://avatars.githubusercontent.com/u/67591875?v=4)
 
