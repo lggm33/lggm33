@@ -44,7 +44,7 @@ const About = () => {
 							<ul className='flex items-center gap-4'>
 								{data?.about?.socials.map((social, index) => (
 									<li key={index}>
-										<Link href={social?.link} className='h-10 w-10 text-secondary dark:text-white hover:bg-primary hover:text-white rounded-full transition-all duration-300 opacity-50 hover:opacity-100 inline-block'>
+										<Link href={social?.link} target="_blank" rel="noopener noreferrer" className='h-10 w-10 text-secondary dark:text-white hover:bg-primary hover:text-white rounded-full transition-all duration-300 opacity-50 hover:opacity-100 inline-block'>
 											<span dangerouslySetInnerHTML={{__html: social?.icon}}></span>
 										</Link>
 									</li>
