@@ -1,7 +1,5 @@
 # Gabriel Gomez - Software Developer
 
-![Profile Photo](https://avatars.githubusercontent.com/u/67591875?v=4)
-
 ## 👨‍💻 About Me
 
 I am a software developer with over 3 years of experience in the web development field. I am passionate about technology and enjoy solving complex problems through innovative and efficient solutions. I have experience working in agile and collaborative teams, always focused on creating solutions and helping other developers.
