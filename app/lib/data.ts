@@ -25,12 +25,12 @@ const data = {
     },
     services: [
         {
-            title: "Front-end Development",
+            title: "Front-end Development.",
             description: "Crafting beautiful and interactive user interfaces using the latest front-end technologies.",
             icon: "<svg viewBox='0 0 25 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M4.5 19H20.5M4.5 5V16H20.5V5L16.5 9L12.5 5L8.5 9L4.5 5Z' stroke='currentColor' stroke-width='1.5'stroke-linecap='round' strokeLinejoin='round' /></svg>",
         },
         {
-            title: "Back-end Development",
+            title: "Back-end Development.",
             description: "Building robust server-side applications and APIs to power dynamic websites efficiently, securely, and responsively.",
             icon: `<svg viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0878 3.2517C13.4368 2.91968 12.5546 2.91456 11.8984 3.24572C9.60476 4.73726 7.1796 6.15909 5.10231 7.58476C4.79314 7.83439 4.57373 8.19713 4.57747 8.62411C4.5812 9.04933 4.80508 9.40722 5.11237 9.65274C7.1796 10.8985 9.60476 12.3204 11.8477 13.9529C12.4987 14.2849 13.3809 14.29 14.0371 13.9588C16.3952 12.3204 17.3653 11.8464 20.8332 9.6198C21.1424 9.37017 21.3618 9.00743 21.3581 8.58046C21.3543 8.15524 21.1305 7.79734 20.8232 7.55183C18.8204 6.15909 16.3952 4.73726 14.0878 3.2517ZM12.5661 4.50902C12.7986 4.3917 13.1805 4.39281 13.4146 4.51218C15.4252 5.68515 17.3653 7.10698 19.8238 8.59018C17.8503 9.95065 15.9102 11.3725 13.3694 12.6955C13.1369 12.8129 12.755 12.8118 12.521 12.6924C10.202 11.3725 8.14966 9.95065 6.11175 8.61438C8.14966 7.10698 9.60476 6.15909 12.5661 4.50902Z" fill="currentColor"/>
@@ -40,7 +40,7 @@ const data = {
             `,
         },
         {
-            title: "Responsive Design",
+            title: "Responsive Design.",
             description: "Ensuring websites look great and function flawlessly across various devices and screen sizes.",
             icon: `<svg viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M21.5 12C21.5 16.9706 17.4706 21 12.5 21M21.5 12C21.5 7.02944 17.4706 3 12.5 3M21.5 12H3.5M12.5 21C7.52944 21 3.5 16.9706 3.5 12M12.5 21C12.5 21 16.5 18 16.5 12C16.5 6 12.5 3 12.5 3M12.5 21C12.5 21 8.5 18 8.5 12C8.5 6 12.5 3 12.5 3M3.5 12C3.5 7.02944 7.52944 3 12.5 3" stroke="currentColor" stroke-width="1.5"/>
@@ -56,20 +56,20 @@ const data = {
             link: "https://curso-firebase-30522.web.app/",
         },
         {
-            title: "Design your lego superheroes",
+            title: "Design your lego superheroes.",
             technologies: ["HTML", "CSS"],
             image: "images/portfolio/lego.png",
             link: "https://lggm33.github.io/superheroe-landing-page/",
         },
         
         {
-            title: "Animatioland",
+            title: "Animatioland.",
             technologies: ["HTML", "CSS"],
             image: "images/portfolio/animatioland.png",
             link: "https://lggm33.github.io/Animaciones-CSS/",
         },
         {
-            title: "My Budget App",
+            title: "My Budget App.",
             technologies: ["React", "NextJS", "TailwindCSS"],
             image: "images/portfolio/mybudgetapp.png",
             link: "https://www.mybudgetapp.shop/",
@@ -77,20 +77,20 @@ const data = {
     ],
     experiences: [
         {
-            company: "Foundever / Twilio",
-            title: "Developer Support Engineer",
+            company: "Foundever / Twilio.",
+            title: "Developer Support Engineer.",
             location: "Heredia, Costa Rica",
             period: "Apr 2022 - Present · Full-time",
             technologies: ["JavaScript", "Python", "Kibana", "Twilio"],
-            points: ["Provides support to developers integrating Twilio’s APIs and SDKs into mobile and web applications based on their use cases.", "Utilizes tools such as BigQuery and Kibana to analyze logs and review code for troubleshooting errors.", "Supports various Twilio libraries and escalates issues with the engineering team with Jira"],
+            points: ["Provides support to developers integrating Twilio’s APIs and SDKs into mobile and web applications based on their use cases.", "Utilizes tools such as BigQuery and Kibana to analyze logs and review code for troubleshooting errors.", "Supports various Twilio libraries and escalates issues with the engineering team with Jira."],
         },
         {
-            company: "Intel",
-            title: "Semiconductor Manufacturing Technician",
+            company: "Intel.",
+            title: "Semiconductor Manufacturing Technician.",
             location: "Heredia, Costa Rica",
             period: "Nov 2022 — Mar 2023",
             technologies: ["Python", "BigQuery", "Linux"],
-            points: ["Collaborate in the testing, development, and data analysis of semiconductors.","Use BigQuery to analyze data generated from stress tests", "Develop process automation programming", "Add voice search feature for mobile app."],
+            points: ["Collaborate in the testing, development, and data analysis of semiconductors.","Use BigQuery to analyze data generated from stress tests.", "Develop process automation programming", "Add voice search feature for mobile app."],
         },
         
     ],
