@@ -4,7 +4,7 @@ import Reveal from "./animation/Reveal"
 
 const Contact = () => {
 	return (
-		<section className='py-12 laptop:py-24 bg-white dark:bg-secondary' id='contact'>
+		<section className='py-12 laptop:py-24 bg-[#FBFBFB] dark:bg-secondary/90' id='contact'>
 			<div className='container space-y-6 laptop:space-y-12'>
 				<div className='text-center space-y-2'>
 					<Reveal width='100%'>
