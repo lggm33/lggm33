@@ -10,7 +10,7 @@ const data = {
         last_name: "Gomez",
         info: "Experienced web developer specializing in front-end and back-end technologies. Proficient in JavaScript, HTML, CSS, React, NextJS and ExpressJS. Committed to delivering high-quality, responsive websites.",
         experience: "My journey in the tech world has been both diverse and rewarding. I’ve spent the last six years working in the field, starting as a Mechatronics Technician where I focused on industrial automation. Over time, I transitioned into software development, teaching myself the necessary skills along the way. Now, I’m a Developer Support Engineer, helping other developers implement their ideas and troubleshoot the issues they face. I’ve also worked on various personal projects that push me to improve my technical abilities.",
-        image: "/images/common/profile.png",
+        image: "images/common/profile.png",
         resume_link: "/",
         socials: [
             {
@@ -52,26 +52,26 @@ const data = {
         {
             title: "Petgram.",
             technologies: ["React", "Firebase", "Bootstrap"],
-            image: "/images/portfolio/petgram.png",
+            image: "images/portfolio/petgram.png",
             link: "https://curso-firebase-30522.web.app/",
         },
         {
             title: "Design your lego superheroes",
             technologies: ["HTML", "CSS"],
-            image: "/images/portfolio/lego.png",
+            image: "images/portfolio/lego.png",
             link: "https://lggm33.github.io/superheroe-landing-page/",
         },
         
         {
             title: "Animatioland",
             technologies: ["HTML", "CSS"],
-            image: "/images/portfolio/animatioland.png",
+            image: "images/portfolio/animatioland.png",
             link: "https://lggm33.github.io/Animaciones-CSS/",
         },
         {
             title: "My Budget App",
             technologies: ["React", "NextJS", "TailwindCSS"],
-            image: "/images/portfolio/mybudgetapp.png",
+            image: "images/portfolio/mybudgetapp.png",
             link: "https://www.mybudgetapp.shop/",
         },
     ],
@@ -97,27 +97,27 @@ const data = {
     skills: [
         {
             title: "HTML",
-            img: "/images/common/html.svg",
+            img: "images/common/html.svg",
         },
         {
             title: "CSS",
-            img: "/images/common/css-3.svg",
+            img: "images/common/css-3.svg",
         },
         {
             title: "TailwindCSS",
-            img: "/images/common/tailwind.svg",
+            img: "images/common/tailwind.svg",
         },
         {
             title: "JavaScript",
-            img: "/images/common/javascript.svg",
+            img: "images/common/javascript.svg",
         },
         {
             title: "React",
-            img: "/images/common/react.svg",
+            img: "images/common/react.svg",
         },
         {
             title: "Python",
-            img: "/images/common/python.svg",
+            img: "images/common/python.svg",
         },
                 
         
