@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: 16 185 129;
+  --color-secondary: 35 46 53;
+}
+
+html,
+body {
+	scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+	width: 0.6rem;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 0.8rem;
+	background: #797979;
+	transition: all 0.5s ease-in-out;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #222224;
+}
+
+::-webkit-scrollbar-track {
+	background: #f9f9f9;
+}
+
+.swiper_container {
+	height: 52rem;
+	padding: 2rem 0;
+	position: relative;
+}
+
+.swiper-slide-shadow-left,
+.swiper-slide-shadow-right {
+	display: none;
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+	content: "" !important;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+	@apply rounded-lg bg-primary/10 !text-primary !h-8 !w-8 laptop:!h-10 laptop:!w-10 flex items-center justify-center hover:bg-primary hover:!text-white transition-all duration-300
+}
+
+.swiper-button-prev svg,
+.swiper-button-next svg {
+	@apply !w-5 !h-5
+}
+
+.swiper-button-next, 
+.swiper-button-prev {
+	@apply !relative !right-0 !left-0
+}
+
+#testimonial .swiper-pagination-bullet {
+	@apply bg-slate-200 !h-3 !w-3 !opacity-100
+}
+
+#testimonial .swiper-pagination-bullet-active {
+	@apply bg-primary
+}
+
+#testimonial .autoplay-progress {
+	@apply absolute right-0 bottom-4 z-10 w-12 h-12 flex items-center justify-center font-bold text-primary
+}
+  
+#testimonial .autoplay-progress svg {
+	@apply absolute left-0 top-0 z-10 h-full w-full stroke-[4px] stroke-primary fill-none rotate-90;
+
+	--progress: 0;
+	stroke-dashoffset: calc(125.6 * (1 - var(--progress)));
+	stroke-dasharray: 125.6;
+}
