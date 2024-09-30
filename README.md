@@ -49,5 +49,5 @@ _Apr 2015 — Jan 2018_
 ## 📞 Contact
 
 - **Email**: gomez.gabriel.developer33@gmail.com
-- **LinkedIn**: [linkedin.com/in/lgomez33](www.linkedin.com/in/lgomez33)
+- **LinkedIn**: [linkedin.com/in/lgomez33](https://www.linkedin.com/in/lgomez33)
 
