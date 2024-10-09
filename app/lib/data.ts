@@ -2,8 +2,8 @@ const data = {
     app_info: {
         title: "GG Portfolio",
         description: "Welcome to the portfolio of a passionate web developer.",
-        light_logo: "/images/logo/icon-gg.png",
-        dark_logo: "/images/logo/icon-gg.png"
+        light_logo: "/lggm33/images/logo/icon-gg.png",
+        dark_logo: "/lggm33/images/logo/icon-gg.png"
     },
     about: {
         first_name: "Gabriel",
