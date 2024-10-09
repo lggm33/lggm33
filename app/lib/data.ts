@@ -50,6 +50,12 @@ const data = {
     ],
     projects: [
         {
+            title: "HiLink.",
+            technologies: ["NextJS", "TailwindCSS", "TypeScript", "GitHub Actions"],
+            image: "images/portfolio/hiLink.png",
+            link: "https://lggm33.github.io/travel_app/",
+        },
+        {
             title: "Petgram.",
             technologies: ["React", "Firebase", "Bootstrap"],
             image: "images/portfolio/petgram.png",
