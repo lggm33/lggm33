@@ -11,7 +11,7 @@ const data = {
         info: "Experienced web developer specializing in front-end and back-end technologies. Proficient in JavaScript, HTML, CSS, React, NextJS and ExpressJS. Committed to delivering high-quality, responsive websites.",
         experience: "My journey in the tech world has been both diverse and rewarding. I’ve spent the last six years working in the field, starting as a Mechatronics Technician where I focused on industrial automation. Over time, I transitioned into software development, teaching myself the necessary skills along the way. Now, I’m a Developer Support Engineer, helping other developers implement their ideas and troubleshoot the issues they face. I’ve also worked on various personal projects that push me to improve my technical abilities.",
         image: "images/common/profile.png",
-        resume_link: "/",
+        resume_link: "https://jonquil-salamander-6983.twil.io/assets/Luis_Gabriel_Gomez_Resume.pdf",
         socials: [
             {
                 link: "https://github.com/lggm33",
