@@ -184,7 +184,7 @@ const data = {
     },
     contact: {
         address: "Heredia, Costa Rica",
-        phone: "+50685181747",
+        phone: "",
         mail: "gomez.gabriel.developer33@gmail.com",
         map_location: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7858.447880725021!2d-84.12704140536604!3d9.998352060427777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0faddaded66bd%3A0x2527e99d1a1e0bdf!2sHeredia%20Province%2C%20Heredia!5e0!3m2!1sen!2scr!4v1727388349966!5m2!1sen!2scr"
     },
